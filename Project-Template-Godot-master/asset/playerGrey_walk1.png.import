@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pill.png-e8e6e5cfce41157f289157b44e75669c.stex"
+path="res://.import/playerGrey_walk1.png-a3c509f95841568c20cab9d06eddc0ad.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Pill.png"
-dest_files=[ "res://.import/Pill.png-e8e6e5cfce41157f289157b44e75669c.stex" ]
+source_file="res://asset/playerGrey_walk1.png"
+dest_files=[ "res://.import/playerGrey_walk1.png-a3c509f95841568c20cab9d06eddc0ad.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2

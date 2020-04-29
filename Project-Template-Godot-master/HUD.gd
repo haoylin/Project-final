@@ -1,4 +1,4 @@
-extends RigidBody2D
+extends Control
 
 
 # Declare member variables here. Examples:

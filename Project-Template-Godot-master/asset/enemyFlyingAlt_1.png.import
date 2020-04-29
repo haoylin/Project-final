@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/virus.jpg-2ac1e11fbddfa4465b1cdfeab9656503.stex"
+path="res://.import/enemyFlyingAlt_1.png-506f9ffb9a8672c8cbee7cbd63295a0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/virus.jpg"
-dest_files=[ "res://.import/virus.jpg-2ac1e11fbddfa4465b1cdfeab9656503.stex" ]
+source_file="res://asset/enemyFlyingAlt_1.png"
+dest_files=[ "res://.import/enemyFlyingAlt_1.png-506f9ffb9a8672c8cbee7cbd63295a0b.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2

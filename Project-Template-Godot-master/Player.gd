@@ -1,53 +1,47 @@
-extends KinematicBody2D
+extends Area2D
 
-export var health = 100
-export var score = 0
-export var margin = 5
-export var y_range = 150
-export var acceleration = 0.1
-
-var velocity = Vector2(0,0)
-
-onready var VP = get_viewport_rect().size
-
-onready var Bullet_R = load("res://Bullets.tscn")
-
+signal hit
+export (int) var speed 
+var screensize
 
 func _ready():
-	pass
+	screensize = get_viewport_rect().size
+	hide()
 
-func die():
-	queue_free()
-	get_tree().change_scene("res://Scenes/GameOver.tscn")
+func start(pos):
+	position = pos
+	show()
+	$CollisionShape2D.disabled = false
 
-func _physics_process(delta):
-	if Input.is_action_pressed("fire"):
-		var b = Bullet_R.instance()
-		b.position = position
-		b.position.y -= 24
-		b.position.x -= -18
-		get_node("/root/Game/Bullet").fire(b)
-
-	if Input.is_action_pressed("left"):
-		velocity.x -= acceleration
+func _process(delta):
+	var velocity = Vector2()
 	if Input.is_action_pressed("right"):
-		velocity.x += acceleration
-	if Input.is_action_pressed("up"):
-		velocity.y -= acceleration
+		velocity.x += 1
+	if Input.is_action_pressed("left"):
+		velocity.x -= 1
 	if Input.is_action_pressed("down"):
-		velocity.y += acceleration
+		velocity.y += 1
+	if Input.is_action_pressed("up"):
+			velocity.y -= 1
+	if velocity.length() > 0:
+		velocity = velocity.normalized() * speed
+		$AnimatedSprite.play()
+	else:
+		$AnimatedSprite.stop()
+	position += velocity * delta
+	position.x = clamp(position.x, 0, screensize.x)
+	position.y = clamp(position.y, 0, screensize.y)
 
-	if position.x < margin:
-		velocity.x = 0
-		position.x = margin
-	if position.x > VP.x - margin:
-		velocity.x = 0
-		position.x = VP.x - margin
-	if position.y < margin:
-		velocity.y = 0
-		position.y = margin
-	if position.y > VP.y - margin:
-		velocity.y = 0
-		position.y = VP.y - margin
+	if velocity.x != 0:
+		$AnimatedSprite.animation = "right"
+		$AnimatedSprite.flip_v = false
+		$AnimatedSprite.flip_h = velocity.x < 0
+	elif velocity.y != 0:
+		$AnimatedSprite.animation = "up"
+		$AnimatedSprite.flip_v = velocity.y > 0
 
-	var collision = move_and_collide(velocity)
+
+func _on_player_body_entered(body):
+	$CollisionShape2D.disabled = true
+	hide()
+	emit_signal("hit")
