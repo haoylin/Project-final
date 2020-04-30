@@ -1,0 +1,50 @@
+Name:Courtney Fuentes
+Date:4/29/2020
+
+Project: dreamstudio
+Group's repository: https://github.com/haoylin/Project-final
+
+
+
+What is something you learned by reviewing this group's project? I'm not sure why the thought never crossed my mind to change the size of the window the game would be played in, but I think you executed that well and it suggests that the game could even be played on a phone screen.
+
+ 
+
+In what ways does this game reflect the theme? 
+The player must dodge a virus.
+
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games? 
+The player's animation was cool, I enjoyed how the eyes moved with whatever way you were moving.
+
+ 
+
+What suggestions would you have for this group to improve the game?
+It seemed every time the virus would spawn it would stay towards the top and avoid the bottom of the screen, so it is easy to just stay at the bottom and not get hit becasue the virus doesn't follow the player. I would suggest either having the virus spawn in random locations on the screen or having them move or shake in some way.
+
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+Choosing to use randi (random integer) for where the Mob's would spawn, where I would have thought to use randf (random float) instead. However, perhaps you found a way to make this work for the game since the viruses are being spawned. 
+ 
+
+Is it clear that every group member participated?
+Yes
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes
+
+What is something the group could add to the README.md to make it more descriptive?
+Under future plans I would suggest saying specific things that could make the game run better or more juicy, rather than just saying you wish to create a better game.
+ 
+
+Pay a compliment to the group based on the quality of the game. 
+I really like the central idea of it! You have a working game, which is difficult enough to do in a 48 hour window towards the end of the semester. I liked the animation for the player a lot, its eye was cute. The background music was also pleasant.
+
+
+How many of your points would you allocate to this project? 
+2
+
+
