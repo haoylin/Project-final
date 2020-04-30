@@ -1,0 +1,18 @@
+
+Name: Hileman
+Date: 4/29/2020
+Project: dreamstudio's Project-final
+Group's repository:https://github.com/haoylin/Project-final
+What is something you learned by reviewing this group's project? Even in a constrained amount of time, people still wanted to push their limits and try something new.
+In what ways does this game reflect the theme? You're dodging what I assume to be covid-19
+What is something you saw in this group's project that you would like to apply to your own future games? It had well composed music
+What suggestions would you have for this group to improve the game? Maybe make the music and characters fit the theme a little better? Your background made it seem like it was supposed to be intense, the theme was dark, but the music and characters were both happy and uplifting.
+I would also say that moving enemies would make it more dynamic, though I understand the constraints and troubles. Props for trying something new in such a short span of time.
+Was there anything in the GDScript that was confusing to you? I don't believe so.
+If so, what? nothing???
+Is it clear that every group member participated? I think so.
+Does the repository contain an appropriate LICENSE? Yes
+What is something the group could add to the README.md to make it more descriptive? Maybe add a formal title, other than that, it looked good.
+Pay a compliment to the group based on the quality of the game. Once again, props for trying something new.
+How many of your points would you allocate to this project? on the 20 pt scale, I say all 20. It isn't perfect, but none of these are going to be. We all have bugs and glitches, but in the end, we tried. I'm looking to see if people tried, and you did.
+Once again, good job. I think you peeps did well for what you were aiming for in that span of time.
