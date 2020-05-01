@@ -1,0 +1,56 @@
+Name:
+Date:
+
+Project: 
+Group's repository: 
+
+
+
+What is something you learned by reviewing this group's project?
+I learned that the speed and moement of a character can make a difference in the enjoyment levels. 
+ 
+
+In what ways does this game reflect the theme?
+This game definitely went into the direction of teh Corona Virus, after all, you have to try not and get affected by it. There is the virus,
+and your whole goal is not to catch it, or get hit by it. 
+
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+I think that the game had a good animation system for the player charqacter, and I would like to add better player animations to my games as that is 
+not one of my strong suits and they did a great job with that.
+
+ 
+
+What suggestions would you have for this group to improve the game?
+I think they should incorporate some kind of movement for the enemies, but I suspect that they just ran out of time to do that. I would also think that having 
+some kind of way to have combat against the virus would also be nice for a user. There was also a bug where the game was restarttign that could be looked into.
+All in all, I think they were on a good track.
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+I didn't see anything that was confusing to me in the GDScript, but I enjoyed the way that they instanced in new scenes in the script, and I 
+would like to get better with HUD scripts, and theirs seemed pretty useful.
+ 
+
+Is it clear that every group member participated?
+Yes, It seems clear that every member of their group probably played some role in making this game.
+
+ 
+
+Does the repository contain an appropriate LICENSE?
+I could not find a Liscense
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+I think they could add a picture of the gameplay so players can see what they are currently making and the ways that they thought about the top[ic could be expanded upon.
+ 
+
+Pay a compliment to the group based on the quality of the game.
+I think they did an excellent job animating the player based on the direction that he was moving, and having good player animation is one way to give a tactile feel to a game and They did a good job with that.
+
+
+How many of your points would you allocate to this project?
+I would give them 2 out of my 5 points to allocate.
+
+
