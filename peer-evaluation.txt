@@ -1,7 +1,7 @@
 Name: Harrison Hinkle
 Date: 5/2/20
 
-Project: Project-Final (I couldn't find an other name)
+Project: Project-Final (I couldn't find any other name)
 Group's repository: hoaylin/Project-final
 
 
