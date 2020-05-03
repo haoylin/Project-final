@@ -36,7 +36,7 @@ Does the repository contain an appropriate LICENSE?
 
 What is something the group could add to the README.md to make it more descriptive?
 
- Describing how to control the character
+ I'm not sure that there's anything that I'd add to make it better
 
 Pay a compliment to the group based on the quality of the game.
 
