@@ -1,0 +1,61 @@
+Name: Emily Laszlo
+Date: 05/02/2020
+
+Project: 
+Group's repository: https://github.com/haoylin/Project-final
+
+
+What is something you learned by reviewing this group's project?
+
+While they were not able to implement enemy movement, I thought that being able to use animated sprites and background music helped strengthen the game.
+
+
+In what ways does this game reflect the theme?
+
+I though that the overall feeling of the aesthetic was dystopic, which gave me a very plague-like feeling. I thought this and the use of amorphous shapes for the enemies also lended itself to this way. 
+
+ 
+What is something you saw in this group's project that you would like to apply to your own future games?
+
+While I implemented the music for my group, I was inspired by the music this group used. I would like to implement more personal music in the future.
+ 
+
+What suggestions would you have for this group to improve the game?
+
+Unfortunately, I do wish that the enemies moved. However, this was already mentioned by the creators. I am unfamiliar with the MobPath node that they used for the enemy spawning, but I think it would’ve been easier to implement a similar system that we used in the space shooter project, where they set a max in script and randomized elements of it.
+
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+
+As mentioned above, I was confused about the mob_types and how movement can be implemented in this form. 
+
+ 
+
+Is it clear that every group member participated?
+
+Yes; they were able to get quite  bit done only having two people in their group, especially since neither were particularly strong in coding. As well, the elements that were there were well done.
+
+ 
+
+Does the repository contain an appropriate LICENSE?
+
+Yes
+
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+
+I would’ve liked to have a small section that helped push a more creative narrative, however, I really liked that they mentioned why they chose to do a 2D game in terms of the theme. I thought that this level of thinking is important when creating a narrative.
+
+ 
+
+Pay a compliment to the group based on the quality of the game.
+
+The elements you managed to get into the game were well done, despite the enemies not functioning how you intended. I understand how hard this stuff can be, being new at it myself. I thought you did a really good job getting a good aesthetic and atmosphere going.
+
+
+How many of your points would you allocate to this project?
+
+4
+
