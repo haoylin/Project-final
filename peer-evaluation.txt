@@ -1,0 +1,57 @@
+Name: Riley Halloran
+Date: 5/2/20
+
+Project: Final Project
+Group's repository: https://github.com/haoylin/Project-final 
+
+
+
+What is something you learned by reviewing this group's project?
+I learned that a simple game executed well can be better than a sprawling aimless game. 
+
+ 
+
+In what ways does this game reflect the theme?
+The game reflects the theme by having the game be set in a post apocalypse setting where random viruses pop up on the screen. It points to the seemingly random nature of infection and how in the end It is sometimes inevitable that you will succumb. 
+
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+I would like to apply that audio track, it was killer, but in all seriousness I would say that I would apply the simplistic theming of the game and how with only a few elements you can get across a whole narrative.
+
+ 
+
+What suggestions would you have for this group to improve the game?
+I would first make sure that the viruses are more spread out, forcing the player to move. Secondly I would make sure that they would spawn on screen all the time as there were a few that only had small edges inside the border. Lastly while I would make the rate slow, I would have it so that over time the old viruses start to decay and fall of that way the game can be played for longer and allow for more interaction and choices from the player. 
+ 
+
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+No for the most part it seems rather simple to understand. 
+ 
+
+
+Is it clear that every group member participated?
+
+From reading their read me and playing the game I can say that everyone participated. 
+
+
+Does the repository contain an appropriate LICENSE?
+
+yes 
+
+
+What is something the group could add to the README.md to make it more descriptive?
+Honestly their read me is great I would only add some bits about what they think of the game and how well they executed on that.
+ 
+
+
+Pay a compliment to the group based on the quality of the game.
+Great work on the assest and way to pump out a simple but effective game given the time limit
+
+
+
+How many of your points would you allocate to this project?
+2 pointss
+
+
