@@ -1,0 +1,47 @@
+Name: Austin Lynn
+Date: 5/2/20
+
+Project: Not sure what to put here
+Group's repository: github.com/haoylin/Project-final
+
+
+
+What is something you learned by reviewing this group's project?
+
+ I learned just how big of a difference good music can make in a game
+
+In what ways does this game reflect the theme?
+
+ It has good looking virus enemies that you have to avoid in order to win.
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+
+ If my games had music like that, I think that they would feel a lot more lively and be more intersting to play.
+
+What suggestions would you have for this group to improve the game?
+
+ Other than to find a way to make the enemies move, you could add more levels with harder enemies after the player reaches a certain score.
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+
+ Nothing really 'confused' me, but I had no idea how to get the enemies to move myself.
+
+Is it clear that every group member participated?
+
+ Yes
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes
+
+What is something the group could add to the README.md to make it more descriptive?
+
+ Describing how to control the character
+
+Pay a compliment to the group based on the quality of the game.
+
+ I absolutely loved the music. I kept playing just to listen to more haha
+
+How many of your points would you allocate to this project?
+
+
